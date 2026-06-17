@@ -1,0 +1,6 @@
+[
+  {
+    "programa": "P8.Promedio",
+    "salida": "Ingresa valor No. 1 para hacer el calculo\n10\nIngresa valor No. 2 para hacer el calculo\n10\nIngresa valor No. 3 para hacer el calculo\n10\nIngresa valor No. 4 para hacer el calculo\n10\nIngresa valor No. 5 para hacer el calculo\n10\nEste es el promedio de los valores: 10\nEste es el resultado de la suma de los valores: 50\nEste es el maximo de los valores: 10\nEste es el minimo de los valores: 10\n"
+  }
+]

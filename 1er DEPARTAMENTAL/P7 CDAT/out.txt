@@ -1,0 +1,9 @@
++--------------------------------------------------+
+| PROGRAMA: P7.Creacion de dato
++--------------------------------------------------+
+| SALIDA: 
+| Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: 
+Mi Nombre es: polo mon ort
+Tengo: 16 años.
+Me identifico como: m
++--------------------------------------------------+

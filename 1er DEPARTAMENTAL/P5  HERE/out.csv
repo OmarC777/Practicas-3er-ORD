@@ -1,0 +1,22 @@
+programa,salida
+"P5.Herencia","Suma con dos parametros
+5 + 62 = 67
+Suma con tres parametros
+37 + 54 + 11 = 102
+Suma sin parametros
+Escribe el primer numero: 
+5
+Escribe el segundo numero: 
+5
+El resultado es: 10
+Suma sin parametros
+Escribe el primer numero: 
+2
+Escribe el segundo numero: 
+2
+El resultado es: 4
+Suma con dos parametros
+10 + 20 = Suma heredada: 30
+--- Operacion de Potencia Cientifica ---
+Resultado Potencia: 8
+"

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P7BIS.Tamaños</programa>
+    <salida>tamaño de un enetero 4
+
+
+tamaño de un entero --&gt;112
+
+
+tamaño de un entero --&gt; 112
+
+
+tamaño de un double --&gt; 8
+
+
+tamaño de un char --&gt; 1
+
+
+tamaño de un float --&gt; 4
+
+
+tamaño de un bool --&gt; 1
+
+
+salida vacia</salida>
+  </entrada>
+</programas>

@@ -1,0 +1,6 @@
+[
+  {
+    "programa": "P6.Herencia y sobreescritura",
+    "salida": "Suma con dos parametros\n5 + 62 = 67\nSuma con tres parametros\n37 + 54 + 11 = 102\nSuma sin parametros\nEscribe el primer numero: \n4\nEscribe el segundo numero: \n5\nEl resultado es: 9\nSuma sin parametros\nEscribe el primer numero: \n7\nEscribe el segundo numero: \n7\nEl resultado es: 14\n\n[Cientifica] Multiplicando 10 x 20 mediante sumas:\nSuma heredada: 200\n--- Operacion de Potencia Cientifica ---\nResultado Potencia: 8\nSuma con dos parametros\n5 + 4 = Suma Normal: 9\n\n[Cientifica] Multiplicando 5 x 4 mediante sumas:\nMultiplicacion (Suma Sucesiva): 20\n\n[Cientifica] Potencia mediante multiplicaciones:\n\n[Cientifica] Multiplicando 1 x 2 mediante sumas:\n\n[Cientifica] Multiplicando 2 x 2 mediante sumas:\n\n[Cientifica] Multiplicando 4 x 2 mediante sumas:\nPotencia Sucesiva: 8\n\n[Cientifica] Dividiendo mediante restas:\nDivision Sucesiva: 5\n"
+  }
+]

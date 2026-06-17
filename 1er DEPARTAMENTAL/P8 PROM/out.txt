@@ -1,0 +1,20 @@
++--------------------------------------------------+
+| PROGRAMA: P8.Promedio
++--------------------------------------------------+
+| SALIDA: 
+| Ingresa valor No. 1 para hacer el calculo
+10
+Ingresa valor No. 2 para hacer el calculo
+10
+Ingresa valor No. 3 para hacer el calculo
+10
+Ingresa valor No. 4 para hacer el calculo
+10
+Ingresa valor No. 5 para hacer el calculo
+10
+Este es el promedio de los valores: 10
+Este es el resultado de la suma de los valores: 50
+Este es el maximo de los valores: 10
+Este es el minimo de los valores: 10
+
++--------------------------------------------------+

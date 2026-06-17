@@ -1,0 +1,27 @@
++--------------------------------------------------+
+| PROGRAMA: P7BIS.Tamaños
++--------------------------------------------------+
+| SALIDA: 
+| tamaño de un enetero 4
+
+
+tamaño de un entero -->112
+
+
+tamaño de un entero --> 112
+
+
+tamaño de un double --> 8
+
+
+tamaño de un char --> 1
+
+
+tamaño de un float --> 4
+
+
+tamaño de un bool --> 1
+
+
+salida vacia
++--------------------------------------------------+

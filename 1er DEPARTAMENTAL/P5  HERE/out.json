@@ -1,0 +1,6 @@
+[
+  {
+    "programa": "P5.Herencia",
+    "salida": "Suma con dos parametros\n5 + 62 = 67\nSuma con tres parametros\n37 + 54 + 11 = 102\nSuma sin parametros\nEscribe el primer numero: \n5\nEscribe el segundo numero: \n5\nEl resultado es: 10\nSuma sin parametros\nEscribe el primer numero: \n2\nEscribe el segundo numero: \n2\nEl resultado es: 4\nSuma con dos parametros\n10 + 20 = Suma heredada: 30\n--- Operacion de Potencia Cientifica ---\nResultado Potencia: 8\n"
+  }
+]
