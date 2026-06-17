@@ -1,0 +1,13 @@
++--------------------------------------------------+
+| PROGRAMA: P3.Calculadora Basica
++--------------------------------------------------+
+| SALIDA: 
+| Selecciones la operacion que guste: 
+1 -> Suma; 2 -> Resta; 3 -> Multiplicacion; 4 -> Division
+3
+Introduzca el primero numero de su operacion: 
+3
+Introduzca el segundo numero de su operacion: 
+3
+El resultado de su operacion es: 9
++--------------------------------------------------+
