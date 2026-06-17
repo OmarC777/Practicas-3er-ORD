@@ -1,0 +1,6 @@
+[
+  {
+    "programa": "P10.Promedio P",
+    "salida": "Ingresa valor No. 0 para hacer el calculo\n7\nIngresa valor No. 1 para hacer el calculo\n8\nIngresa valor No. 2 para hacer el calculo\n8\nIngresa valor No. 3 para hacer el calculo\n9\nIngresa valor No. 4 para hacer el calculo\n7\nEste es el promedio de los valores: 7.8\nEste es el resultado de la suma de los valores: 39\nEste es el maximo de los valores: 9\nEste es el minimo de los valores: 7\nLa direccion de memoria del arreglo es: 0x70fc10"
+  }
+]

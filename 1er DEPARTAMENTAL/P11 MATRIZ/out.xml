@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P11.Matrices</programa>
+    <salida>Producto de matrices
+20	15	
+25	10	
+Producto de matrices
+35	45	
+20	50	
+</salida>
+  </entrada>
+</programas>

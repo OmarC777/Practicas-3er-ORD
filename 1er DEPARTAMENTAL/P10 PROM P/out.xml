@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P10.Promedio P</programa>
+    <salida>Ingresa valor No. 0 para hacer el calculo
+7
+Ingresa valor No. 1 para hacer el calculo
+8
+Ingresa valor No. 2 para hacer el calculo
+8
+Ingresa valor No. 3 para hacer el calculo
+9
+Ingresa valor No. 4 para hacer el calculo
+7
+Este es el promedio de los valores: 7.8
+Este es el resultado de la suma de los valores: 39
+Este es el maximo de los valores: 9
+Este es el minimo de los valores: 7
+La direccion de memoria del arreglo es: 0x70fc10</salida>
+  </entrada>
+</programas>

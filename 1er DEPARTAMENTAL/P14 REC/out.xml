@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P14.Recursividad</programa>
+    <salida>Suma con dos parametros
+5 + 62 = 67
+Suma con tres parametros
+37 + 54 + 11 = 102
+Suma sin parametros
+Escribe el primer numero: 
+9
+Escribe el segundo numero: 
+9
+El resultado es: 18
+
+Factorial de 5: 120
+Fibonacci (posicion 6): 8
+Multiplicacion Rec (5x3): 15
+Potencia Rec (2^4): 16
+Division Rec (20/5): 4
+</salida>
+  </entrada>
+</programas>

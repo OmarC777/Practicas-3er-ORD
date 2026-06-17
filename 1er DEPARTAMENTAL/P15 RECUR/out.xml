@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P15.Triangulo Sierpinski</programa>
+    <salida>Ingresa Nivel (Serpinski): Triangulos en nivel 2: 17
+
+Ingresa Nivel (Cantor): 2
+Ingresa Dimension (Cantor): 2
+Elementos en nivel 2, dimension 2: 16
+</salida>
+  </entrada>
+</programas>

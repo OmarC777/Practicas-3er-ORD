@@ -1,0 +1,88 @@
+programa,salida
+"P13. NTPD puntero","---------Datos Persona---------
+Nombre: Polo
+Ap. Paterno: gonza
+Ap. Materno: ortiz
+Edad: 2
+Genero: m
+>>>>>>>>>Datos de su auto<<<<<<<
+Precio: 7
+Anio: 7
+---------Datos Persona---------
+Nombre: andy
+Ap. Paterno: mon
+Ap. Materno: ort
+Edad: 7
+Genero: f
+>>>>>>>>>Datos de su auto<<<<<<<
+Precio: 6
+Anio: 6
+---------Datos Persona---------
+Nombre: omar
+Ap. Paterno: cruz
+Ap. Materno: ortega
+Edad: 22
+Genero: m
+>>>>>>>>>Datos de su auto<<<<<<<
+Precio: 9
+Anio: 9
+---------Datos Persona---------
+Nombre: carlos
+Ap. Paterno: mon
+Ap. Materno: ortiz
+Edad: 3
+Genero: m
+>>>>>>>>>Datos de su auto<<<<<<<
+Precio: 6
+Anio: 1
+---------Datos Persona---------
+Nombre: calu
+Ap. Paterno: nu¤ez
+Ap. Materno: ort
+Edad: 3
+Genero: f
+>>>>>>>>>Datos de su auto<<<<<<<
+Precio: 3
+Anio: 1
+---------Registros-----------
+Nombre: Polo
+Apellido Paterno: gonza
+Apellido Materno: ortiz
+Genero: m
+Edad: 2
+Precio del auto: $7
+Modelo: 7
+____________________________
+Nombre: andy
+Apellido Paterno: mon
+Apellido Materno: ort
+Genero: f
+Edad: 7
+Precio del auto: $6
+Modelo: 6
+____________________________
+Nombre: omar
+Apellido Paterno: cruz
+Apellido Materno: ortega
+Genero: m
+Edad: 22
+Precio del auto: $9
+Modelo: 9
+____________________________
+Nombre: carlos
+Apellido Paterno: mon
+Apellido Materno: ortiz
+Genero: m
+Edad: 3
+Precio del auto: $6
+Modelo: 1
+____________________________
+Nombre: calu
+Apellido Paterno: nu¤ez
+Apellido Materno: ort
+Genero: f
+Edad: 3
+Precio del auto: $3
+Modelo: 1
+____________________________
+"

@@ -1,0 +1,53 @@
+programa,salida
+"P12. Nuevo tpd","---------Datos Persona---------
+Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: >>>>>>>>>Datos de su auto<<<<<<<
+Precio: Anio: ---------Datos Persona---------
+Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: >>>>>>>>>Datos de su auto<<<<<<<
+Precio: Anio: ---------Datos Persona---------
+Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: >>>>>>>>>Datos de su auto<<<<<<<
+Precio: Anio: ---------Datos Persona---------
+Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: >>>>>>>>>Datos de su auto<<<<<<<
+Precio: Anio: ---------Datos Persona---------
+Nombre: Ap. Paterno: Ap. Materno: Edad: Genero: >>>>>>>>>Datos de su auto<<<<<<<
+Precio: Anio: ---------Registros-----------
+Nombre: Q
+Apellido Paterno: Q
+Apellido Materno: Q
+Genero: Q
+Edad: 2
+Precio del auto: $2
+Modelo: 2
+____________________________
+Nombre: S
+Apellido Paterno: S
+Apellido Materno: S
+Genero: S
+Edad: 1
+Precio del auto: $1
+Modelo: 1
+____________________________
+Nombre: R
+Apellido Paterno: R
+Apellido Materno: R
+Genero: R
+Edad: 4
+Precio del auto: $4
+Modelo: 4
+____________________________
+Nombre: T
+Apellido Paterno: T
+Apellido Materno: T
+Genero: T
+Edad: 6
+Precio del auto: $6
+Modelo: 6
+____________________________
+Nombre: H
+Apellido Paterno: H
+Apellido Materno: H
+Genero: H
+Edad: 7
+Precio del auto: $7
+Modelo: 7
+____________________________
+"
