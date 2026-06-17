@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>P3.Calculadora Basica</programa>
+    <salida>Selecciones la operacion que guste: 
+1 -&gt; Suma; 2 -&gt; Resta; 3 -&gt; Multiplicacion; 4 -&gt; Division
+3
+Introduzca el primero numero de su operacion: 
+3
+Introduzca el segundo numero de su operacion: 
+3
+El resultado de su operacion es: 9</salida>
+  </entrada>
+</programas>

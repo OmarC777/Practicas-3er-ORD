@@ -1,0 +1,6 @@
+[
+  {
+    "programa": "P3.Calculadora Basica",
+    "salida": "Selecciones la operacion que guste: \n1 -> Suma; 2 -> Resta; 3 -> Multiplicacion; 4 -> Division\n3\nIntroduzca el primero numero de su operacion: \n3\nIntroduzca el segundo numero de su operacion: \n3\nEl resultado de su operacion es: 9"
+  }
+]
