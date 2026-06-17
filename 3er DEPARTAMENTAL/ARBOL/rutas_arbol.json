@@ -1,0 +1,67 @@
+{
+  "rutas": [
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Catalogo de tienda",
+        "nodoFinal": "Componentes de PC",
+        "aristaConexion": "Departamento",
+        "tiempo": 1,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Componentes de PC",
+        "nodoFinal": "Tarjetas de video ",
+        "aristaConexion": "Subcategoria",
+        "tiempo": 1,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Componentes de PC",
+        "nodoFinal": "Fuentes de poder",
+        "aristaConexion": "Subcategoria",
+        "tiempo": 1,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Componentes de PC",
+        "nodoFinal": "Procesadores",
+        "aristaConexion": "Subcategoria",
+        "tiempo": 1,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Fuentes de poder",
+        "nodoFinal": "XPG 700W 80+ Bronze",
+        "aristaConexion": "Producto",
+        "tiempo": 4,
+        "costo": 1500
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Procesadores",
+        "nodoFinal": "Ryzen 5 4500",
+        "aristaConexion": "Producto",
+        "tiempo": 3,
+        "costo": 2500
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Tarjetas de video",
+        "nodoFinal": "Asus RTX 3060 Ti",
+        "aristaConexion": "Producto",
+        "tiempo": 2,
+        "costo": 5000
+      }
+    }
+  ]
+}

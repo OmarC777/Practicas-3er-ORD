@@ -1,0 +1,16 @@
+<LibreriaJuegos>
+  <Videojuego>
+    <Titulo>Minecraft</Titulo>
+    <HorasJugadas>100</HorasJugadas>
+    <Partidas>
+      <Puntaje>4000</Puntaje>
+    </Partidas>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Fortnite</Titulo>
+    <HorasJugadas>50</HorasJugadas>
+    <Partidas>
+      <Puntaje>9999</Puntaje>
+    </Partidas>
+  </Videojuego>
+</LibreriaJuegos>

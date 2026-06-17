@@ -1,0 +1,76 @@
+{
+  "rutas": [
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Casa",
+        "nodoFinal": "Metro Consulado",
+        "aristaConexion": "A",
+        "tiempo": 10,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Casa",
+        "nodoFinal": "Metrobus Santa Coleta",
+        "aristaConexion": "F",
+        "tiempo": 5,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Consulado",
+        "nodoFinal": "Metro Santa Anita",
+        "aristaConexion": "B",
+        "tiempo": 15,
+        "costo": 5
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Coyuya",
+        "nodoFinal": "Metrobus Coyuya",
+        "aristaConexion": "D",
+        "tiempo": 2,
+        "costo": 6
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Santa Anita",
+        "nodoFinal": "Metro Coyuya",
+        "aristaConexion": "C",
+        "tiempo": 3,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metrobus Coyuya",
+        "nodoFinal": "Metrobus Upiicsa",
+        "aristaConexion": "E",
+        "tiempo": 10,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metrobus Coyuya",
+        "nodoFinal": "Metrobus Upiicsa",
+        "aristaConexion": "H",
+        "tiempo": 10,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metrobus Santa Coleta",
+        "nodoFinal": "Metrobus Coyuya",
+        "aristaConexion": "G",
+        "tiempo": 30,
+        "costo": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "rutas": [
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Casa",
+        "nodoFinal": "Parada",
+        "aristaConexion": "A",
+        "tiempo": 10,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Coyuya ",
+        "nodoFinal": "Metrobus Coyuya",
+        "aristaConexion": "F",
+        "tiempo": 10,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Martin Carrera",
+        "nodoFinal": "Metro Santa Anita",
+        "aristaConexion": "D",
+        "tiempo": 25,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Rosario",
+        "nodoFinal": "Metro Martin Carrera",
+        "aristaConexion": "C",
+        "tiempo": 20,
+        "costo": 5
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Santa Anita",
+        "nodoFinal": "Metro Coyuya",
+        "aristaConexion": "E",
+        "tiempo": 7,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Tacuba",
+        "nodoFinal": "Metro Xola",
+        "aristaConexion": "I",
+        "tiempo": 20,
+        "costo": 5
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metro Xola",
+        "nodoFinal": "Metrobus Xola",
+        "aristaConexion": "J",
+        "tiempo": 3,
+        "costo": 0
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metrobus Coyuya",
+        "nodoFinal": "Metrobus Upiicsa",
+        "aristaConexion": "G",
+        "tiempo": 8,
+        "costo": 6
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Metrobus Xola",
+        "nodoFinal": "Metrobus Upiicsa",
+        "aristaConexion": "K",
+        "tiempo": 15,
+        "costo": 6
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Parada",
+        "nodoFinal": "Metro Rosario",
+        "aristaConexion": "B",
+        "tiempo": 10,
+        "costo": 7.5
+      }
+    },
+    {
+      "conexionNodo2Nodo": {
+        "nodoInicial": "Parada",
+        "nodoFinal": "Metro Tacuba",
+        "aristaConexion": "H",
+        "tiempo": 20,
+        "costo": 7.5
+      }
+    }
+  ]
+}
