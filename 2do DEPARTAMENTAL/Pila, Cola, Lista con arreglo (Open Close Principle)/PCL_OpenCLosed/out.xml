@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <entrada>
+    <programa>Pila, Cola y Lista con Arreglo</programa>
+    <salida>
+MENU DE ESTRUCTURAS
+1. Trabajar con Pila (Stack)
+2. Trabajar con Cola (Queue)
+3. Trabajar con Lista
+4. Salir
+Elige una opcion: 1
+
+Menu de Pila (Stack)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el valor entero a agregar en la pila: 8
+Insertado: 8
+
+Menu de Pila (Stack)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 7
+Regresando...
+
+MENU DE ESTRUCTURAS
+1. Trabajar con Pila (Stack)
+2. Trabajar con Cola (Queue)
+3. Trabajar con Lista
+4. Salir
+Elige una opcion: 2
+
+Menu de Cola (Queue)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el numero de boleto para la cola: 5
+Boleto #5 formado en la cola.
+
+Menu de Cola (Queue)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 3
+Estado de la cola: [5] 
+
+Menu de Cola (Queue)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 4
+-&gt; NO esta vacia.
+
+Menu de Cola (Queue)
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 7
+Regresando...
+
+MENU DE ESTRUCTURAS
+1. Trabajar con Pila (Stack)
+2. Trabajar con Cola (Queue)
+3. Trabajar con Lista
+4. Salir
+Elige una opcion: 3
+
+Menu de Lista
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el valor entero a agregar en la lista: 3
+Valor 3 insertado.
+
+Menu de Lista
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 7
+Regresando...
+
+MENU DE ESTRUCTURAS
+1. Trabajar con Pila (Stack)
+2. Trabajar con Cola (Queue)
+3. Trabajar con Lista
+4. Salir
+Elige una opcion: 4
+</salida>
+  </entrada>
+</programas>

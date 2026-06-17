@@ -1,0 +1,108 @@
++--------------------------------------------------+
+| PROGRAMA: Pila, Cola y Lista con Punteros.
++--------------------------------------------------+
+| SALIDA: 
+| MENU DE ESTRUCTURAS DINAMICAS
+1. Trabajar con Pila Dinamica
+2. Trabajar con Cola Dinamica
+3. Trabajar con Lista Dinamica
+4. Salir
+Elige una estructura: 1
+
+Menu de Pila Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el valor entero a agregar: 98
+El valor: 98 se agrego a la pila
+
+Menu de Pila Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el valor entero a agregar: 65
+El valor: 65 se agrego a la pila
+
+Menu de Pila Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 7
+Regresando...
+MENU DE ESTRUCTURAS DINAMICAS
+1. Trabajar con Pila Dinamica
+2. Trabajar con Cola Dinamica
+3. Trabajar con Lista Dinamica
+4. Salir
+Elige una estructura: 3
+
+Menu de Lista Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 2
+Ingresa el valor entero a quitar: 87
+-> El numero 87 no se encontro en la lista o esta vacia.
+
+Menu de Lista Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 1
+Ingresa el valor entero a agregar al final: 5
+-> Se inserto el numero: 5 al final.
+
+Menu de Lista Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 3
+
+--- CONTENIDO ---
+INICIO -> [5] 
+
+Menu de Lista Dinamica
+1. Agregar elemento
+2. Quitar elemento
+3. Mostrar contenido
+4. Verificar si esta vacia
+5. Verificar si esta llena
+6. Mostrar tamano
+7. Regresar al menu principal
+Elige una opcion: 7
+Regresando...
+MENU DE ESTRUCTURAS DINAMICAS
+1. Trabajar con Pila Dinamica
+2. Trabajar con Cola Dinamica
+3. Trabajar con Lista Dinamica
+4. Salir
+Elige una estructura: 4
+Cerrando sistema...
+
++--------------------------------------------------+

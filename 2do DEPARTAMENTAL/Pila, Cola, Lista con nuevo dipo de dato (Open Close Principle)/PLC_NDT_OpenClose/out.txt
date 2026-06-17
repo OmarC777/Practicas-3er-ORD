@@ -1,0 +1,155 @@
++--------------------------------------------------+
+| PROGRAMA: Pila, Cola y Lista con NTD.
++--------------------------------------------------+
+| SALIDA: 
+| MENU DE ESTRUCTURAS
+1. Administrar Agencia de Vehiculos (Pila)
+2. Administrar Fila de Cine Extream (Cola)
+3. Administrar Registro de Clientes
+4. Salir de la aplicacion
+Elige un negocio: 2
+
+---- M - E - N - U : Fila de Cine Extream (Cola) ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 1
+
+Ingresa el nombre del cliente: Andy
+Ingresa el combo que comprara: pareja
+Ingresa el precio: $250
+>> Andy se ha formado para comprar 
+
+---- M - E - N - U : Fila de Cine Extream (Cola) ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 1
+
+Ingresa el nombre del cliente: Carlos
+Ingresa el combo que comprara: individual
+Ingresa el precio: $99
+>> Carlos se ha formado para comprar 
+
+---- M - E - N - U : Fila de Cine Extream (Cola) ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 3
+
+ESTADO ACTUAL
+
+--- ESTADO DE LA COLA ---
+1. Andy | pareja | $250
+2. Carlos | individual | $99
+-------------------------
+
+---- M - E - N - U : Fila de Cine Extream (Cola) ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 7
+
+Regresando al panel principal...
+MENU DE ESTRUCTURAS
+1. Administrar Agencia de Vehiculos (Pila)
+2. Administrar Fila de Cine Extream (Cola)
+3. Administrar Registro de Clientes
+4. Salir de la aplicacion
+Elige un negocio: 3
+
+---- M - E - N - U : Registro de Clientes ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 1
+
+Ingresa el nombre del cliente: Polo
+Ingresa el numero de socio asignado: 2
+Cliente 'Polo' agregado a la lista con exito.
+
+---- M - E - N - U : Registro de Clientes ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 1
+
+Ingresa el nombre del cliente: Maya
+Ingresa el numero de socio asignado: 4
+Cliente 'Maya' agregado a la lista con exito.
+
+---- M - E - N - U : Registro de Clientes ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 1
+
+Ingresa el nombre del cliente: Omar
+Ingresa el numero de socio asignado: 6
+Cliente 'Omar' agregado a la lista con exito.
+
+---- M - E - N - U : Registro de Clientes ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 3
+
+ESTADO ACTUAL
+Estado actual (3/5 espacios ocupados):
+1. Polo | Socio #: 2
+2. Maya | Socio #: 4
+3. Omar | Socio #: 6
+-------------------------
+
+---- M - E - N - U : Registro de Clientes ----
+1. Agregar un nuevo elemento
+2. Quitar elemento
+3. Mostrar estado
+4. Verificar si esta llena
+5. Verificar si esta vacia
+6. Mostrar el tamano actual
+7. Regresar al panel principal
+Elige una opcion: 7
+
+Regresando al panel principal...
+MENU DE ESTRUCTURAS
+1. Administrar Agencia de Vehiculos (Pila)
+2. Administrar Fila de Cine Extream (Cola)
+3. Administrar Registro de Clientes
+4. Salir de la aplicacion
+Elige un negocio: 4
+Cerrando sistema universal...
+
++--------------------------------------------------+
